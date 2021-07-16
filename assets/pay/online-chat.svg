@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <filter id="矩形_984" x="0" y="0" width="160" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-color="#0d68be" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1.009" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d6ebff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="路径_313" x="51" y="47" width="58" height="56.8" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#4e5681" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="组_1593" data-name="组 1593" transform="translate(-540 -884)">
+    <g transform="matrix(1, 0, 0, 1, 540, 884)" filter="url(#矩形_984)">
+      <g id="矩形_984-2" data-name="矩形 984" transform="translate(36 28)" fill="#138cff" stroke="rgba(255,255,255,0.2)" stroke-width="1">
+        <rect width="88" height="88" rx="44" stroke="none"/>
+        <rect x="0.5" y="0.5" width="87" height="87" rx="43.5" fill="none"/>
+      </g>
+    </g>
+    <g id="组_759" data-name="组 759" transform="translate(-1116 -954)">
+      <g transform="matrix(1, 0, 0, 1, 1656, 1838)" filter="url(#路径_313)">
+        <path id="路径_313-2" data-name="路径 313" d="M262.578,1621.995c-10.992,0-20.006,7.736-20.006,17.349a16.474,16.474,0,0,0,6.836,13.06v5.912a2.478,2.478,0,0,0,2.433,2.479h.133a2.548,2.548,0,0,0,1.2-.345l.122-.078,5.312-4.012a23.562,23.562,0,0,0,3.957.344c10.992,0,20.006-7.736,20.006-17.35S273.57,1621.995,262.578,1621.995Z" transform="translate(-182.57 -1569)" fill="url(#linear-gradient)"/>
+      </g>
+      <path id="路径_314" data-name="路径 314" d="M316.8,1643.943a9.3,9.3,0,0,1-11.5,0" transform="translate(1425.137 268.169)" fill="none" stroke="#138cff" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

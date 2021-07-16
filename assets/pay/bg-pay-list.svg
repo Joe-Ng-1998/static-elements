@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="416" height="371.383" viewBox="0 0 416 371.383">
+  <defs>
+    <filter id="联合_29" x="0" y="0" width="416" height="371.383" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#020e3e" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#联合_29)">
+    <path id="联合_29-2" data-name="联合 29" d="M4,341.383a4,4,0,0,1-4-4V13.61a4,4,0,0,1,4-4H182.588a1.955,1.955,0,0,1,.457-.695L191.531.575a2.024,2.024,0,0,1,2.828,0l8.453,8.307a1.954,1.954,0,0,1,.469.727H382a4,4,0,0,1,4,4V337.383a4,4,0,0,1-4,4Z" transform="translate(15 11)" fill="#fff"/>
+  </g>
+</svg>

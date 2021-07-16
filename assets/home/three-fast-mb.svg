@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="670" height="728" viewBox="0 0 670 728">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_1734" data-name="矩形 1734" width="670" height="728" rx="16" fill="#1a2139"/>
+    </clipPath>
+    <filter id="矩形_1348" x="247" y="458" width="176" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#002448" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="1" y1="0.441" x2="0.143" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2bceff"/>
+      <stop offset="1" stop-color="#3963ef"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.54" y2="0.866" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2bcafe"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.54" y2="0.866" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffe1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="组_2434" data-name="组 2434" transform="translate(-40 -6406)">
+    <g id="组_2018" data-name="组 2018" transform="translate(40 6406)">
+      <g id="组_2017" data-name="组 2017" clip-path="url(#clip-path)">
+        <rect id="矩形_1733" data-name="矩形 1733" width="686" height="744.832" transform="translate(-8 -8.416)" fill="#1a2139"/>
+      </g>
+    </g>
+    <g id="椭圆_262" data-name="椭圆 262" transform="translate(160 6482)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <circle cx="215" cy="215" r="215" stroke="none"/>
+      <circle cx="215" cy="215" r="214.5" fill="none"/>
+    </g>
+    <path id="减去_18" data-name="减去 18" d="M372.167,361.684h0l-20.453-19.1a187.1,187.1,0,0,0,36.842-57.829,186.086,186.086,0,0,0,9.974-33.715,188.869,188.869,0,0,0-.329-73.73,185.976,185.976,0,0,0-28.138-66.867A187.548,187.548,0,0,0,287.789,42.7a186.058,186.058,0,0,0-35.1-10.9,188.822,188.822,0,0,0-75.374,0,185.972,185.972,0,0,0-66.867,28.137A187.546,187.546,0,0,0,42.7,142.211a186.058,186.058,0,0,0-10.9,35.1,188.874,188.874,0,0,0-.329,73.73,185.864,185.864,0,0,0,25.8,64.447,188.228,188.228,0,0,0,21.018,27.1l-20.456,19.1A214.232,214.232,0,0,1,0,215C0,96.448,96.448,0,215,0S430,96.448,430,215a214.261,214.261,0,0,1-57.829,146.685Z" transform="translate(160 6482)" fill="#222e46" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    <path id="路径_69" data-name="路径 69" d="M890.779,532" transform="translate(-657.98 6295.436)" fill="none" stroke="#707070" stroke-miterlimit="10" stroke-width="20"/>
+    <text id="_120.56" data-name="120.56" transform="translate(375 6699)" fill="#fff" font-size="52" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-81.618" y="0">120.56</tspan></text>
+    <text id="_0" data-name="0" transform="translate(254.953 6822.417)" fill="#fff" font-size="19" font-family="OpenSans-Semibold, Open Sans" font-weight="600" opacity="0.6"><tspan x="-5.423" y="0">0</tspan></text>
+    <text id="_100" data-name="100" transform="translate(375 6539.563)" fill="#fff" font-size="19" font-family="OpenSans-Semibold, Open Sans" font-weight="600" opacity="0.6"><tspan x="-16.268" y="0">100</tspan></text>
+    <text id="_150" data-name="150" transform="translate(523.875 6662)" fill="#fff" font-size="19" font-family="OpenSans-Semibold, Open Sans" font-weight="600" opacity="0.6"><tspan x="-16.268" y="0">150</tspan></text>
+    <text id="_50" data-name="50" transform="translate(221.229 6662)" fill="#fff" font-size="19" font-family="OpenSans-Semibold, Open Sans" font-weight="600" opacity="0.6"><tspan x="-10.845" y="0">50</tspan></text>
+    <text id="_200" data-name="200" transform="translate(484.566 6822.417)" fill="#fff" font-size="19" font-family="OpenSans-Semibold, Open Sans" font-weight="600" opacity="0.6"><tspan x="-16.268" y="0">200</tspan></text>
+    <g id="组_2115" data-name="组 2115" transform="translate(-11166 8256)">
+      <g transform="matrix(1, 0, 0, 1, 11206, -1850)" filter="url(#矩形_1348)">
+        <rect id="矩形_1348-2" data-name="矩形 1348" width="158" height="56" rx="28" transform="translate(256 464)" fill="#3963ef"/>
+      </g>
+      <text id="GO" transform="translate(11523 -1348)" fill="#fff" font-size="24" font-family="OpenSans-Semibold, Open Sans" font-weight="600" letter-spacing="0.03em"><tspan x="0" y="0">GO</tspan></text>
+    </g>
+    <g id="组_2113" data-name="组 2113" transform="translate(-11114 8263)">
+      <text id="_182" data-name="182" transform="translate(11349 -1244)" fill="#fff" font-size="32" font-family="OpenSans-Semibold, Open Sans" font-weight="600" opacity="0.8"><tspan x="-27.398" y="0">182</tspan></text>
+      <text id="Mbps" transform="translate(11350 -1211)" fill="#68758e" font-size="21" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-27.885" y="0">Mbps</tspan></text>
+      <g id="组_2112" data-name="组 2112" transform="translate(0 8)">
+        <circle id="椭圆_259" data-name="椭圆 259" cx="14" cy="14" r="14" transform="translate(11274 -1278)" fill="#54607b"/>
+        <path id="路径_3934" data-name="路径 3934" d="M967.709,398.277l-4.432,4.43a1.571,1.571,0,0,1-2.215,0l-4.432-4.43a1.567,1.567,0,0,1,2.217-2.215l1.756,1.756v-8.751a1.567,1.567,0,1,1,3.133,0v8.751l1.756-1.756a1.567,1.567,0,0,1,2.217,2.215Z" transform="translate(10325.828 -1659.5)" fill="#1a2139"/>
+      </g>
+    </g>
+    <g id="组_2114" data-name="组 2114" transform="translate(-10788 8263)">
+      <text id="_182-2" data-name="182" transform="translate(11349 -1244)" fill="#fff" font-size="32" font-family="OpenSans-Semibold, Open Sans" font-weight="600" opacity="0.8"><tspan x="-27.398" y="0">182</tspan></text>
+      <text id="Mbps-2" data-name="Mbps" transform="translate(11350 -1211)" fill="#68758e" font-size="21" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-27.885" y="0">Mbps</tspan></text>
+      <g id="组_2112-2" data-name="组 2112" transform="translate(11274 -1270)">
+        <circle id="椭圆_259-2" data-name="椭圆 259" cx="14" cy="14" r="14" fill="#54607b"/>
+        <path id="路径_3934-2" data-name="路径 3934" d="M967.709,392.388l-4.432-4.43a1.571,1.571,0,0,0-2.215,0l-4.432,4.43a1.567,1.567,0,0,0,2.217,2.215l1.756-1.756V401.6a1.567,1.567,0,1,0,3.133,0v-8.751l1.756,1.756a1.567,1.567,0,0,0,2.217-2.215Z" transform="translate(-948.172 -381.164)" fill="#1a2139"/>
+      </g>
+    </g>
+    <text id="Mbps-3" data-name="Mbps" transform="translate(375 6746)" fill="#9da3b9" font-size="26" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-34.525" y="0">Mbps</tspan></text>
+    <path id="减去_20" data-name="减去 20" d="M57.829,361.683A214.232,214.232,0,0,1,0,215C0,96.448,96.448,0,215,0a213.649,213.649,0,0,1,104.13,26.94,216.144,216.144,0,0,1,93.024,102.306,213.909,213.909,0,0,1,11.518,33.875L396.4,169.416A187,187,0,0,0,28,215a188.56,188.56,0,0,0,3.47,36.043,185.87,185.87,0,0,0,25.8,64.447,188.245,188.245,0,0,0,21.019,27.1l-20.455,19.1Z" transform="translate(160 6482)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+    <g id="组_2120" data-name="组 2120" transform="matrix(0.259, 0.966, -0.966, 0.259, -4121.375, -4037.005)">
+      <path id="路径_70" data-name="路径 70" d="M3.04,0H12.8L16,65H0Z" transform="translate(11523 -1694)" fill="url(#linear-gradient-2)"/>
+      <circle id="椭圆_261" data-name="椭圆 261" cx="64" cy="64" r="64" transform="translate(11468 -1629)" fill="#fff" opacity="0"/>
+      <path id="路径_3938" data-name="路径 3938" d="M3.04,0H12.8L16,65H0Z" transform="translate(11523 -1501)" opacity="0" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>
